@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 tvg-id="" tvg-name="PORTADA" tvg-logo="http://whmcsblock.xyz:8080/images/db54ff459b48048349c9487919d10aec.png" group-title="ESPAÑA SD",PORTADA
 http://1black1o.xyz:8080/vbroqjfh/cgpi900QA5/1
 #EXTINF:-1 tvg-id="taquillaaccion1.es" tvg-name="1 TAQUILLA ACCION" tvg-logo="" group-title="TAQUILLAS Y CANALES 24H",1 TAQUILLA ACCION
