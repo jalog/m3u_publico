@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 tvg-ID="mlaliga.es" tvg-name="ES DAZNT LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="SPAIN DAZN",ES DAZNT LA LIGA HD
 http://tslower.rfdte99.com:2082/ritv5_007647/aEeWWGqF/252723
 #EXTINF:-1 tvg-ID="" tvg-name="ES DAZNT LA LIGA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="SPAIN DAZN",ES DAZNT LA LIGA 2 FHD
