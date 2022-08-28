@@ -1,0 +1,56 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="ESPAÑA | EUROSPORT" tvg-logo="http://whmcsblock.xyz:8080/images/65e150fd7bf4ce2c5e7e31b2f25e07cd.jpg" group-title="ESPAÑA SD",ESPAÑA | EUROSPORT
+http://1black1o.xyz:8080/vbroqjfh/cgpi900QA5/83
+#EXTINF:-1 tvg-id="Eurosport3.es" tvg-name="ES: EUROSPORT 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Eurosport_3_%28II%29.svg" group-title="Eurosport",ES: EUROSPORT 3 HD
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20537#EXTINF:-1 tvg-id="Eurosport3.es" tvg-name="ES: EUROSPORT 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Eurosport_3_%28II%29.svg" group-title="Eurosport",ES: EUROSPORT 3
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20531
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Eurosport_4_%28II%29.svg" group-title="Eurosport",ES: EUROSPORT 4
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20532
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Eurosport_4_%28II%29.svg" group-title="ES 10 EUROSPORT",ES: EUROSPORT 4 HD
+http://44583220135290354.nicehos.xyz:80/jj08164/7308405171/290354
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 5
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20533
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 5
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20533
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 5 HD
+http://44583220135290355.nicehos.xyz:80/jj08164/7308405171/290355
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 6
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20534
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 6
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20534
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 6 HD
+http://44583220135290356.nicehos.xyz:80/jj08164/7308405171/290356
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 7
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20535
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 7
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20535
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 7 HD
+http://533326113648290783.nicehos.xyz:80/m07202/3279876/290783
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 7 HD
+http://44583220135290783.nicehos.xyz:80/jj08164/7308405171/290783
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 8
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20529
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 8
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20529
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 8 HD
+http://44583220135290357.nicehos.xyz:80/jj08164/7308405171/290357
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 9
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20530
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Eurosport",ES: EUROSPORT 9
+http://op.dolipa.com:8080/yqbbiwzk/2Ye7oUvt62/20530
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 9 HD
+http://44583220135290784.nicehos.xyz:80/jj08164/7308405171/290784
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 9 HD
+http://533326113648290784.nicehos.xyz:80/m07202/3279876/290784
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: EUROSPORT 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES 10 EUROSPORT",ES: EUROSPORT 2 SD
+http://44583220135290353.nicehos.xyz:80/jj08164/7308405171/290353
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES 10 EUROSPORT",ES: EUROSPORT 1 FHD
+http://44583220135290348.nicehos.xyz:80/jj08164/7308405171/290348
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES 10 EUROSPORT",ES: EUROSPORT 1 HD
+http://44583220135290349.nicehos.xyz:80/jj08164/7308405171/290349
+#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="ES: EUROSPORT 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES 10 EUROSPORT",ES: EUROSPORT 1 SD
+http://44583220135290350.nicehos.xyz:80/jj08164/7308405171/290350
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES 10 EUROSPORT",ES: EUROSPORT 2 FHD
+http://44583220135290351.nicehos.xyz:80/jj08164/7308405171/290351
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES 10 EUROSPORT",ES: EUROSPORT 2 HD
+http://44583220135290352.nicehos.xyz:80/jj08164/7308405171/290352
