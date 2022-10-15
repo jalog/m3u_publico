@@ -3,7 +3,7 @@
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,EVENTO 4K #1 (a*)
 acestream://cbefd784b21b848784df15d92775cb63d51950be
-#EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,EVENTO 4K #2 (j*)
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,EVENTO 4K #2 (j**)
 acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
@@ -209,3 +209,4 @@ acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte 1080
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
+
