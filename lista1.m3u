@@ -103,9 +103,9 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720*
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080*
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2
@@ -129,7 +129,7 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720*
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
@@ -159,7 +159,7 @@ acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080*
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720*
 acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720
 acestream://f90c6899eb5cadb0050226548246adb56ceade8a
@@ -179,7 +179,7 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4 1080
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4*
 acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5
 acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
