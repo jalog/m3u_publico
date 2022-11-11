@@ -49,8 +49,6 @@ acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Argentina 720
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Uruguay 720
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Extra Uruguay 720
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png" ,ESPN 2 Uruguay 720
