@@ -68,19 +68,3 @@ ESPN ARGENTINA	acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 ESPN EXTRA URUGUAY	acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 ESPN 3 ARGENTINA	acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 FOX 3 ARGENTINA	acestream://9a8c5485a38e9399e81b3eed23e588946946039f
-Lista de ID	https://telegra.ph/Ids-manuk0s-08-22
-Lista de ID	https://telegra.ph/Acestream-08-22
-NBA Tv 1 (ENG) [m3u8]	http://51.161.84.67/LB2022_NBA_TV/index.m3u8
-Gol Tv (Web Of)	https://goltelevision.com/en-directo
-tdp (TeleDeporte) 1080	https://tdp.futbolgratis.workers.dev/
-LA 1 720 (Update)	https://la1.futbolgratis.workers.dev/
-MEGA 720	http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
-EuroSport 1 1080 [m3u8]	http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-Esport3 1080 (Update)	https://esport3.futbolgratis.workers.dev/
-TVG 2 SD	https://amodino-crtvg.flumotion.com/crtvg/amodino_source/playlist.m3u8
-beIN SPORTS Xtra ñ 720	https://beinsportsxtra.futbolgratis.workers.dev/
-Red Bull Tv 1080	http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Tennis Channel 720	https://tennis-cannel.futbolgratis.workers.dev/
-#0 de Movistar 1080	acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-SETANTA SPORTS 1080	acestream://72066549fbfd3f755853fe9467586b7debf01f60
-ESPN SD	http://190.61.102.67:31589/play/a064/index.m3u8
