@@ -1,3 +1,5 @@
+// Formato dos columnas
+
 var x = document.querySelectorAll(".column-content.c.cf.pr.pr-0.pr-320.pr-365.pr-400.pr-480 a");
 var myarray = []
 for (var i=0; i<x.length; i++){
@@ -10,6 +12,30 @@ function make_table() {
     var table = '<table><thead><th></th><th></th></thead><tbody>';
    for (var i=0; i<myarray.length; i++) {
             table += '<tr><td>'+ myarray[i][0] + '</td><td>'+myarray[i][1]+'</td></tr>';
+    };
+ 
+    var w = window.open("");
+w.document.write(table); 
+}
+make_table()
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Formato una columna
+
+var x = document.querySelectorAll(".column-content.c.cf.pr.pr-0.pr-320.pr-365.pr-400.pr-480 a");
+var myarray = []
+for (var i=0; i<x.length; i++){
+var nametext = x[i].textContent;
+var cleantext = nametext.replace(/\s+/g, ' ').trim();
+var link = x[i].href;
+var cleanlink = link.replace(/acestream\:\/\//g, '').trim();
+myarray.push([cleantext,cleanlink]);
+};
+function make_table() {
+    var table = '<table><thead><th></thead><tbody>';
+   for (var i=0; i<myarray.length; i++) {
+            table += '<tr><td>'+ myarray[i][0] + '</td></tr>' + '<tr><td>'+ myarray[i][1]+'</td></tr>';
     };
  
     var w = window.open("");
