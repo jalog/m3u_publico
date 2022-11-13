@@ -29,7 +29,7 @@ for (var i=0; i<x.length; i++){
 var nametext = x[i].textContent;
 var cleantext = nametext.replace(/\s+/g, ' ').trim();
 var link = x[i].href;
-var cleanlink = link.replace(/acestream\:\/\//g, '').trim();
+var cleanlink = link.replace(/acestream:\/\//g, '').trim();
 myarray.push([cleantext,cleanlink]);
 };
 function make_table() {
