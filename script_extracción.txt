@@ -89,4 +89,3 @@ w.document.write(table);
 }
 make_table()
 
-var x = document.querySelectorAll("[href*='acestream:']");
