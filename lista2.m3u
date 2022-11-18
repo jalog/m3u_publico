@@ -69,15 +69,15 @@ http://127.0.0.1:6878/ace/getstream?id=87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 http://127.0.0.1:6878/ace/getstream?id=1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png" ,DAZN LaLiga 2 720 multiaudio
 http://127.0.0.1:6878/ace/getstream?id=d83a3242e10ecffc31a16a02890de199a65dd8d9
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Argentina 720
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1250.png" ,ESPN Argentina 720
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Extra Uruguay 720
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2036.png" ,ESPN Extra Uruguay 720
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png" ,ESPN 2 Uruguay 720
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1251.png" ,ESPN 2 Uruguay 720
 http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png" ,ESPN 3 Uruguay 720
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 Uruguay 720
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png" ,ESPN 3 Argentina 720
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 Argentina 720
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
 http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
