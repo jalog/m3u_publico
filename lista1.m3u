@@ -229,9 +229,9 @@ acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,Be Mad 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 group-title="Extranjeros" ,NBA USA 1 1080
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 1 1080
 acestream://39db49bc89dcc3c8797566231f869dca57f1a47e
-#EXTINF:-1 group-title="Extranjeros" ,NBA USA 2 1080
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 2 1080
 acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110
 #EXTINF:-1 group-title="Extranjeros" ,ESPN USA 1080
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
