@@ -281,9 +281,9 @@ http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png" ,BeIN Sports 1 BE
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png" ,BeIN Sports 2 BE
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a401.png" ,BeIN Sports 2 BE
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png" ,BeIN Sports 3 BE
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a402.png" ,BeIN Sports 3 BE
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a713.png" ,Eleven Sports 1 BE
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
