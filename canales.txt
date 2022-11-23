@@ -8,6 +8,7 @@ Gol Mundial 2 1080	acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 Gol Mundial 2 720	acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 Gol Mundial 1080 MultiAudio	acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 La1	acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+La1 UHD	acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 LaLiga Tv Bar 1080	acestream://01b333b9369c662775902638ef8cffac346a0f61
 LaLiga Tv Bar 720	acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 M. LaLiga 1080 MultiAudio	acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
