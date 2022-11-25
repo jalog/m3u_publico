@@ -85,13 +85,13 @@ acestream://e40b29774fdfd953751a71f5695f647726623b9d
 acestream://b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 Argentina 720
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
 acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
